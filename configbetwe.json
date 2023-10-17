@@ -1,0 +1,138 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "applovin_max",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#813585356012379_1278332302871013",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#813585356012379_1278332406204336",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#813585356012379_1278332549537655",
+      "startapp_app_id": "0",
+      "unity_game_id": "180600305",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tips Bet way online betting",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2Fbannerbetwe.png?alt=media&token=e2cd8130-162a-467a-9c06-04655b99659d&_gl=1*re6n9c*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI4MDAuNjAuMC4w"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "Tips Bet way online betting",
+      "title": "What is Betway",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2Fbannerbetwe.png?alt=media&token=e2cd8130-162a-467a-9c06-04655b99659d&_gl=1*re6n9c*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI4MDAuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2F1%20What%20is%20Betway.html?alt=media&token=75680977-b3f6-4fb6-acda-8910341e79cd&_gl=1*16p77u2*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI4MTguNDIuMC4w",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Tips Bet way online betting",
+      "title": "Betway Betting Exchange",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2Fbannerbetwe.png?alt=media&token=e2cd8130-162a-467a-9c06-04655b99659d&_gl=1*re6n9c*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI4MDAuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2F2%20Betway%20Betting%20Exchange.html?alt=media&token=63c320d5-0601-406b-b376-5eb88b2504f7&_gl=1*dvbii4*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI4MzkuMjEuMC4w",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Tips Bet way online betting",
+      "title": "Available Options Betway",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2Fbannerbetwe.png?alt=media&token=e2cd8130-162a-467a-9c06-04655b99659d&_gl=1*re6n9c*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI4MDAuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2F3%20Available%20Options%20Betway.html?alt=media&token=98ce182c-81b3-484d-a5e5-68658e9a5f5d&_gl=1*ax8zlb*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI4NTQuNi4wLjA.",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "Tips Bet way online betting",
+      "title": "How to Register on Betway",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2Fbannerbetwe.png?alt=media&token=e2cd8130-162a-467a-9c06-04655b99659d&_gl=1*re6n9c*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI4MDAuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2F4%20How%20to%20Register%20on%20Betway.html?alt=media&token=c83b4b0b-6bbb-4ef3-8a00-e8f0474f843e&_gl=1*1dxjlmc*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI4ODAuNTguMC4w",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "Tips Bet way online betting",
+      "title": "How to Choose the Sport in Betway",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2Fbannerbetwe.png?alt=media&token=e2cd8130-162a-467a-9c06-04655b99659d&_gl=1*re6n9c*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI4MDAuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2F5%20How%20to%20Choose%20the%20Sport%20in%20Betway.html?alt=media&token=8ce3160a-1a68-45f8-a39b-9d24e1f53b11&_gl=1*9wmcan*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI4OTkuMzkuMC4w",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "Tips Bet way online betting",
+      "title": "Tips Big Win",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2Fbannerbetwe.png?alt=media&token=e2cd8130-162a-467a-9c06-04655b99659d&_gl=1*re6n9c*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI4MDAuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2F6%20Tips%20Big%20Win.html?alt=media&token=4a62c37c-cbb9-46aa-8005-f9edb56c340e&_gl=1*1nzzdb0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI5MjAuMTguMC4w",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "Tips Bet way online betting",
+      "title": "Pros and Cons",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2Fbannerbetwe.png?alt=media&token=e2cd8130-162a-467a-9c06-04655b99659d&_gl=1*re6n9c*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI4MDAuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2F7%20Pros%20and%20Cons.html?alt=media&token=aeadeb8b-7f20-4252-85d1-d5bf6204d916&_gl=1*1txx39v*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI5MzkuNjAuMC4w",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "Tips Bet way online betting",
+      "title": "How to Sign Up Betway Sports",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2Fbannerbetwe.png?alt=media&token=e2cd8130-162a-467a-9c06-04655b99659d&_gl=1*re6n9c*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI4MDAuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/betwe%2F8%20How%20to%20Sign%20Up%20Betway%20Sports.html?alt=media&token=01d71c16-f049-471e-b905-0f3e5a6f2bc3&_gl=1*1j14at7*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NzUyMjAyNy4zNy4xLjE2OTc1MjI5NjYuMzMuMC4w",
+      "video": ""
+    }
+	
+  ],
+  "more_apps": [
+    
+  ]
+}
